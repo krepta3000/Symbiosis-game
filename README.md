@@ -1,27 +1,36 @@
-# Symbiosis: A Cooperative, Resource-Based Strategy Game
+# 🚀 Symbiosis: A Cooperative, Resource-Based Strategy Game  
 
-## 📜 Overview
-Symbiosis is an open-source game designed to explore **cooperation, ethics, interstellar diplomacy, and a Resource-Based Economy**. Players **work together** to advance civilization, manage resources sustainably, and navigate first contact with alien species.
+## 📢 **New Development Tasks Available!**  
+We’ve officially set up **GitHub issues for key development milestones**, including:  
+✅ **Player Interaction System** – Role selection, progression tracking  
+✅ **Resource Management System** – Cooperative distribution of food, energy, and technology  
+✅ **Interstellar Diplomacy Framework** – First-contact negotiations with alien civilizations  
 
-Unlike traditional competitive games, Symbiosis prioritizes:
-- **Shared Prosperity Over Individual Domination**
-- **Real Consequences for Actions & Decisions**
-- **Player-Driven Learning & Mentorship**
-- **Evolving History (Akashic Record) That Influences Future Playthroughs**
+Contributors can now **claim tasks** and begin helping with development!  
 
-## 🌍 Core Features
-✔ **Player Roles & Subclasses** – Specialize in diplomacy, engineering, culinary arts, and planetary development.  
-✔ **Resource-Based Economy** – No pay-to-win mechanics; abundance for needs, scarcity for wants.  
-✔ **Interstellar Diplomacy** – Negotiate with alien civilizations to shape humanity’s destiny.  
-✔ **Permanent Consequences** – No save-scumming; mistakes require **real cooperation** to resolve.  
-✔ **Akashic Record** – A perfect historical archive of past player choices and civilizations.  
-✔ **Tribute Memorials** – Honors real players who pass away with interactive digital memories.  
-✔ **Open-Source Development** – Anyone can contribute code, ideas, and mechanics to improve Symbiosis.
+📂 **[View Open Issues & Start Contributing](https://github.com/YOUR-REPO/issues)**  
 
-## 💻 Getting Started
-### Installing **QB64**
-1. Download QB64 from [Official Website](https://www.qb64.dev/).
-2. Install it on your system (macOS, Windows, Linux supported).
-3. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Symbiosis-Game.git
+---
+
+## 💡 **How to Get Involved**  
+1️⃣ **Browse open issues** and select a task that interests you.  
+2️⃣ Fork the repository, create a new branch, and start coding.  
+3️⃣ Submit a **pull request** when your feature is ready.  
+4️⃣ Discuss improvements and refinements with the community.  
+
+---
+
+### 🛠 **Current Focus Areas**
+🔲 Implement **role-based starting attributes**  
+🔲 Enable **basic player interactions & UI feedback**  
+🔲 Develop **resource-sharing mechanics**  
+🔲 Refine **AI governance & ethical dilemmas**  
+
+💬 **Join the conversation!** Engage with other developers and help shape the game’s evolution.
+
+---
+
+### **📜 Project Vision**
+Symbiosis is **more than a game**—it’s an experiment in **rethinking competition, scarcity, and ethical progress**. By designing a **cooperative system**, it inspires conversations about **how civilization could evolve beyond outdated models**.
+
+💡 **Let’s build together!**  
