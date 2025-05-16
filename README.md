@@ -19,9 +19,9 @@ Unlike traditional competitive games, Symbiosis prioritizes:
 ✔ **Open-Source Development** – Anyone can contribute code, ideas, and mechanics to improve Symbiosis.
 
 ## 💻 Getting Started
-### Installing FreeBASIC
-1. Download FreeBASIC from [Official Website](https://www.freebasic.net/).
-2. Install it on your system.
-3. Clone this repository:  
+### Installing **QB64**
+1. Download QB64 from [Official Website](https://www.qb64.dev/).
+2. Install it on your system (macOS, Windows, Linux supported).
+3. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/Symbiosis-Game.git
